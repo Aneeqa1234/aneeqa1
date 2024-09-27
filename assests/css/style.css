@@ -1,0 +1,80 @@
+.container{
+    border: 0px solid black;
+}
+.row {
+    border:0px solid red;
+}
+.col{
+    border: 0px solid darkorchid;
+}
+ body{
+    background-color: gray !important;
+}
+#header{
+background-color: orchid;
+padding: 10px 0 10px 10px;
+}
+#menu{
+background-color: pink;
+padding: 3px 0px;
+}
+#menu ul{
+    list-style: none;
+    margin: 0;
+}
+#menu ul li{
+    display: inline-block;
+    text-decoration: none;
+}
+#menu ul li a {
+ 
+    text-decoration: none;
+}
+#sidebar ul li a {
+ 
+    text-decoration: none;
+}
+
+#content{
+background-color: white;
+}
+#sidebar{
+background-color: lightblue;
+}
+#footer{
+background-color: orchid;
+}
+#order0{
+    background-color:white;
+}
+#order1{
+    background-color: red;
+
+}
+#order2{
+    background-color:blue;
+}
+#col1{
+background-color: blueviolet;
+}
+#col2{
+    background-color: pink;
+}
+#col3{
+    background-color: lightblue;
+}
+#col4{
+    background-color: cadetblue;
+}
+#Xaxis{
+    background-color: cornflowerblue;
+    border: 3px solid black;
+}
+#axis{
+    background-color: darkseagreen;
+    border: 3px solid brown;
+}
+.nav-link:hover{
+    background-color: darkgoldenrod;
+    color: blueviolet;
+}
